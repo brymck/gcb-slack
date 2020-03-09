@@ -1,5 +1,8 @@
 # gcb-slack
 
+![Build](https://github.com/brymck/gcb-slack/workflows/Build/badge.svg)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+
 Google Cloud Build webhook for Slack, mostly taken from  
 https://cloud.google.com/cloud-build/docs/configure-third-party-notifications#writing_the_cloud_function
 
